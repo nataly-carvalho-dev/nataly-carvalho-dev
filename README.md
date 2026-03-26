@@ -35,4 +35,4 @@ Atualmente, estou mergulhada no ecossistema **Unity**, aplicando minha base sól
 ---
 
 ## 📫 Vamos trocar uma ideia?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nataly-carvalho-silva/))
