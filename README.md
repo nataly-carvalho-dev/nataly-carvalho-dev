@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E9DCCF&height=150&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E9DCCF&height=150&section=header&text=Nataly%20Carvalho&fontSize=50&fontAlignY=40&animation=fadeIn&fontFace=Kalam" width="100%" />
 
 ### Game Developer em Formação | Unity & C# Enthusiast
 Desenvolvedora apaixonada por lógica e arquitetura de sistemas, agora focada em transpor essas habilidades para a criação de mundos e experiências interativas na Unity.
@@ -35,4 +35,4 @@ Atualmente, estou mergulhada no ecossistema **Unity**, aplicando minha base sól
 ---
 
 ## 📫 Vamos trocar uma ideia?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataly-carvalho-silva/)
