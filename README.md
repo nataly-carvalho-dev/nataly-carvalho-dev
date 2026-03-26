@@ -27,12 +27,5 @@ Atualmente, estou mergulhada no ecossistema **Unity**, aplicando minha base sól
 
 ---
 
-## 🎯 Objetivos para 2026
-- [ ] Finalizar meu primeiro protótipo jogável (MVP).
-- [ ] Participar da minha primeira Game Jam.
-- [ ] Dominar o sistema de partículas e efeitos visuais básicos da Unity.
-
----
-
 ## 📫 Vamos trocar uma ideia?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataly-carvalho-silva/)
